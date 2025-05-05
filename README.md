@@ -2,9 +2,9 @@
 
 Здесь хранятся небольшие проекты
 
-###Одностраничные проекты на React
+##Одностраничные проекты на React
 
-- [погрузчики SHANN]( https://wasd21xd.github.io/shann---React/)
+
 <!--
 **wasd21xd/wasd21xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
