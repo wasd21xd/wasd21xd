@@ -21,7 +21,7 @@
 	-	Git, GitHub
 
  ## Проект с настройкой окружения
- + Игры разума [Природные артефакты Ссылка на код: https://github.com/denisholmov/natural-collection.git]
+ + [Игры разума](https://github.com/denisholmov/natural-collection.git)
 
 
 
