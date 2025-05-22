@@ -24,7 +24,7 @@
 + [Игры разума](https://github.com/denisholmov/natural-collection.git)
 
 ## Чистый js
-+ [калькулятор](https://wasd21xd.github.io/calculate-college/) и ссылка на код https://github.com/wasd21xd/calculate-college.git
++ [Калькулятор](https://wasd21xd.github.io/calculate-college/) и ссылка на репозиторий https://github.com/wasd21xd/calculate-college.git
 
 
 
