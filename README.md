@@ -20,7 +20,7 @@
 	-	Git, GitHub
 
 ## Проект с настройкой окружения
-+ [Игры разума](https://github.com/denisholmov/natural-collection.git)
++ [Игры разума](https://github.com/wasd21xd/frontend-project-44.git)
 
 ## Чистый js
 + [Калькулятор](https://wasd21xd.github.io/calculate-college/) и ссылка на репозиторий https://github.com/wasd21xd/calculate-college.git
