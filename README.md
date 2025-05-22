@@ -4,7 +4,6 @@
 	-	⚛️ React с хуками и компонентным подходом
 	-	🎨 Адаптивную верстку с использованием CSS / Tailwind / styled-components
 	-	🧩 Интерактивность через useState, useEffect и кастомные хуки
-	-	🧪 Тестирование UI и логики (если применимо).
 
 ## 📁 Категории проектов:
 	-	Лендинги и визитки
@@ -15,8 +14,8 @@
 
 ## 🔧 Технологии
 	-	React
-	-	HTML5 / CSS3 / SCSS / Tailwind
-	-	JavaScript / TypeScript
+	-	HTML5 / CSS3 / SCSS 
+	-	JavaScript 
 	-	Figma → Code
 	-	Git, GitHub
 
